@@ -1,4 +1,3 @@
-<?php
 
 // This documentation provides a brief overview of the sweetView_Cls class, its properties, methods, and an example usage.
 
